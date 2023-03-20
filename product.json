@@ -1,0 +1,86 @@
+{
+    "productos":[{
+    "id": 1,
+    "name": "Bicicleta",
+    "price": 920,
+    "image": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"With its practical position, this bike also fulfills a decorative function, add your hall or workspace.",
+    "Category":"Others"
+
+    },
+    {
+    "id": 2,
+    "name": "Camisa",
+    "price": 60,
+    "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",  
+    "content":"With its practical position, this bike also fulfills a decorative function, add your hall or workspace.",  
+    "Category":"Clothes"    
+    },
+    {
+    "id": 3,
+    "name": "Pantalon",
+    "price": 120,
+    "image": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"With its practical position, this bike also fulfills a decorative function, add your hall or workspace.",    
+    "Category":"Clothes"    
+    },
+    
+    {
+    "id": 4,
+    "name": "Laptop",
+    "price": 2000,
+    "image": "https://images.pexels.com/photos/3999538/pexels-photo-3999538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "Category":"Electronics"
+    },
+    {
+    "id": 5,
+    "name": "Juguete",
+    "price": 50,
+    "image": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "Category":"Toys"
+    },
+    {
+    "id": 6,
+    "name": "Sofa",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "Category":"Furnitures"
+    },
+    {
+    "id": 7,
+    "name": "Cama",
+    "price": 1000,
+    "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "Category":"Furnitures"
+    },
+    {
+    "id": 8,
+    "name": "Computadora",
+    "price": 3000,
+    "image": "https://images.pexels.com/photos/2565919/pexels-photo-2565919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "Category":"Electronics"
+    },
+    {
+    "id": 9,
+    "name": "table",
+    "price": 450,
+    "image": "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "Category":"Furnitures"
+    },
+     {
+    "id": 10,
+    "name": "Falda",
+    "price": 100,
+    "image": "https://images.pexels.com/photos/1488507/pexels-photo-1488507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+    "Category":"Clothes"
+    }
+    
+    ]
+}
